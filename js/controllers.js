@@ -47,7 +47,7 @@ portfolioApp.controller('GalleryListCtrl', function($scope) {
     },
     { 'title':'Okładka na płytę',
      'category': 'Okładka',
-     'thumbnailUrl':'assets/portfolio/okładka.jpg'
+     'thumbnailUrl':'assets/portfolio/Okładka.jpg'
     }
     ];
 }); 
